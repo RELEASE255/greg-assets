@@ -14,6 +14,8 @@
 - Wireless control via an HTML interface or 2x buttons
 - Microdot server and Micropython script under MIT license
 
-# GD03 project...is forthcoming
+# GD03 project
+...is forthcoming
+
 ---
 by Greg under MIT license
