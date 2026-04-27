@@ -1,6 +1,6 @@
-[![Hardware](https://img.shields.io/badge/Hardware-Open%20Source%20Intelligent-blueviolet?style=flat-square)](/03_hardware/)
 [![Firmware](https://img.shields.io/badge/Firmware-Licence%20MIT-blue?style=flat-square)](/02_firmware/)
 [![Docs&3d](https://img.shields.io/badge/Docs%20&%203d-Licence%20CC%20BY--NC--SA-brightgreen?style=flat-square)](/01_docs)
+[![Hardware](https://img.shields.io/badge/Hardware-Open%20Source%20Intelligent-blueviolet?style=flat-square)](/03_hardware/)
 [![PCB](https://img.shields.io/badge/PCB-Proprietary-red?style=flat-square)](LICENSE.md)
 
 # GD01 project
