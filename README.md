@@ -17,5 +17,18 @@
 # GD03 project
 ...is forthcoming
 
+# 🗂️ Repository Structure
+
+```
+greg-assets/
+├── images/
+│   ├── gd01
+│   ├── gd02
+│   └── gd03
+│
+├── LICENSE
+└── README.md
+```
 ---
-by Greg under MIT license
+*Revision date: 2026.04.27*<br>
+© by Greg under MIT license
